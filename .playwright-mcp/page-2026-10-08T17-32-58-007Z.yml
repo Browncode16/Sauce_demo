@@ -1,0 +1,201 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e8] [cursor=pointer]:
+          - /url: https://switchhub.ca
+        - navigation "Menu" [ref=e11]:
+          - list [ref=e12]:
+            - listitem [ref=e13]:
+              - link "About" [ref=e14] [cursor=pointer]:
+                - /url: https://switchhub.ca/about/
+            - listitem [ref=e15]:
+              - link "Contact Us" [ref=e16] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e17]:
+              - link "FAQ" [ref=e18] [cursor=pointer]:
+                - /url: https://switchhub.ca/faq/
+            - listitem [ref=e19]:
+              - link "Blog" [ref=e20] [cursor=pointer]:
+                - /url: https://switchhub.ca/blog/
+        - link "Download App" [ref=e23] [cursor=pointer]:
+          - /url: https://link.switchhub.ca/R/SWITCHWITHUS
+      - generic [ref=e26]:
+        - button "Secure and Affordable transfers" [ref=e28]
+        - heading "Send Money Quickly Across Borders" [level=1] [ref=e34]
+        - paragraph [ref=e36]: All-in-one platform for international remittances, and bill payments. Make secure, affordable, and fast transactions with no hidden fees and real-time support.
+      - generic [ref=e37]:
+        - link [ref=e39] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.switchhub.app&pcampaignid=web_share
+        - link [ref=e41] [cursor=pointer]:
+          - /url: https://apps.apple.com/ca/app/switch-hub-money-transfer/id6748315496
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - button "How it works" [ref=e50]
+        - heading "Quick Steps To Use Our Services" [level=3] [ref=e54]
+      - generic [ref=e58]:
+        - generic [ref=e60]:
+          - img "Step 1 – Download the app" [ref=e61]
+          - img "Step 2 – Create account" [ref=e62]
+          - img "Step 3 – Make your transactions" [ref=e63]
+        - tablist "How Switch Hub Works" [ref=e64]:
+          - list [ref=e65]:
+            - tab "Download the App Get Switch Hub from your app store. Free of charge." [selected] [ref=e66] [cursor=pointer]:
+              - generic [ref=e68]:
+                - generic [ref=e69]: Download the App
+                - generic [ref=e70]: Get Switch Hub from your app store. Free of charge.
+            - tab "Create Your Account Quick and simple setup for personalized financial tools." [ref=e71] [cursor=pointer]:
+              - generic [ref=e73]:
+                - generic [ref=e74]: Create Your Account
+                - generic [ref=e75]: Quick and simple setup for personalized financial tools.
+            - tab "Make Your Transactions Send money or pay bills in just a few taps." [ref=e76] [cursor=pointer]:
+              - generic [ref=e78]:
+                - generic [ref=e79]: Make Your Transactions
+                - generic [ref=e80]: Send money or pay bills in just a few taps.
+    - generic [ref=e82]:
+      - generic [ref=e83]:
+        - button "Our Services" [ref=e85]
+        - heading "Reliable Fast Secure Global Transactions with Switch Hub" [level=3] [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e91]: Reliable
+            - generic [ref=e92]: Fast
+            - generic [ref=e93]: Secure
+          - generic [ref=e94]: Global Transactions with Switch Hub
+        - paragraph [ref=e96]: We are the number one go-to app for international remittances and bill payments.
+      - generic [ref=e98]:
+        - heading "Instant Transfers" [level=2] [ref=e100]
+        - paragraph [ref=e102]: Send money quickly and efficiently, ensuring your funds reach their destination without delay
+      - generic [ref=e105]:
+        - generic [ref=e108]:
+          - heading "Advanced Security" [level=2] [ref=e110]
+          - paragraph [ref=e112]: Benefit from cutting-edge encryption and compliance measures to keep your transactions safe
+          - paragraph [ref=e114]:
+            - link "Read More" [ref=e115] [cursor=pointer]:
+              - /url: https://switchhub.ca/security
+        - generic [ref=e117]:
+          - heading "Affordable Rates" [level=2] [ref=e119]
+          - paragraph [ref=e121]: Enjoy competitive and transparent pricing with no hidden fees
+      - generic [ref=e122]:
+        - generic [ref=e124]:
+          - heading "24/7 Customer Support" [level=2] [ref=e126]
+          - paragraph [ref=e128]: Access dedicated support anytime, anywhere, for all your transaction needs
+        - generic [ref=e130]:
+          - heading "User-Friendly Interface" [level=2] [ref=e132]
+          - paragraph [ref=e134]: Navigate the app with ease, our intuitive design gives you a seamless user experience
+    - generic [ref=e136]:
+      - button "Testimonials" [ref=e138]
+      - heading "What Our Users Say" [level=3] [ref=e142]
+      - generic [ref=e143]:
+        - region "Carousel" [ref=e144]:
+          - generic [ref=e145]:
+            - group [aria-hidden] [ref=e146]:
+              - generic [ref=e149]:
+                - paragraph [ref=e153]: The app is very easy to use and had a seamless transaction. Got my money in seconds
+                - heading [level=2] [ref=e157]: IbukunOluwa
+            - group [aria-hidden] [ref=e158]:
+              - generic [ref=e161]:
+                - paragraph [ref=e165]: Very reliable money service app. Transactions are fast, secure, and easy to complete. The interface is clean and straightforward, and overall the experience has been smooth. Definitely recommended.
+                - heading [level=2] [ref=e169]: Tosin
+            - group [aria-hidden] [ref=e170]:
+              - generic [ref=e173]:
+                - paragraph [ref=e177]: I really love this app. The rates are so good, and reaching out for support was seamless.
+                - heading [level=2] [ref=e181]: Ejiro
+            - group "1 / 3" [ref=e182]:
+              - generic [ref=e185]:
+                - paragraph [ref=e189]: The app is very easy to use and had a seamless transaction. Got my money in seconds
+                - heading "IbukunOluwa" [level=2] [ref=e193]
+            - group "2 / 3" [ref=e194]:
+              - generic [ref=e197]:
+                - paragraph [ref=e201]: Very reliable money service app. Transactions are fast, secure, and easy to complete. The interface is clean and straightforward, and overall the experience has been smooth. Definitely recommended.
+                - heading "Tosin" [level=2] [ref=e205]
+            - group "3 / 3" [ref=e206]:
+              - generic [ref=e209]:
+                - paragraph [ref=e213]: I really love this app. The rates are so good, and reaching out for support was seamless.
+                - heading "Ejiro" [level=2] [ref=e217]
+            - group [aria-hidden] [ref=e218]:
+              - generic [ref=e221]:
+                - paragraph [ref=e225]: The app is very easy to use and had a seamless transaction. Got my money in seconds
+                - heading [level=2] [ref=e229]: IbukunOluwa
+            - group [aria-hidden] [ref=e230]:
+              - generic [ref=e233]:
+                - paragraph [ref=e237]: Very reliable money service app. Transactions are fast, secure, and easy to complete. The interface is clean and straightforward, and overall the experience has been smooth. Definitely recommended.
+                - heading [level=2] [ref=e241]: Tosin
+            - group [aria-hidden] [ref=e242]:
+              - generic [ref=e245]:
+                - paragraph [ref=e249]: I really love this app. The rates are so good, and reaching out for support was seamless.
+                - heading [level=2] [ref=e253]: Ejiro
+        - generic [ref=e254]:
+          - button "Go to slide 1" [ref=e255] [cursor=pointer]
+          - button "Go to slide 2" [ref=e256] [cursor=pointer]
+          - button "Go to slide 3" [ref=e257] [cursor=pointer]
+  - contentinfo [ref=e258]:
+    - generic [ref=e260]:
+      - generic [ref=e261]:
+        - generic [ref=e262]:
+          - heading "Company" [level=2] [ref=e264]
+          - list [ref=e266]:
+            - listitem [ref=e267]:
+              - link "About" [ref=e268] [cursor=pointer]:
+                - /url: https://switchhub.ca/about/
+            - listitem [ref=e270]:
+              - link "Contact Us" [ref=e271] [cursor=pointer]:
+                - /url: https://switchhub.ca/contact/
+            - listitem [ref=e273]:
+              - link "Blog" [ref=e274] [cursor=pointer]:
+                - /url: https://switchhub.ca/blog/
+        - generic [ref=e276]:
+          - heading "Legal" [level=2] [ref=e278]
+          - list [ref=e280]:
+            - listitem [ref=e281]:
+              - link "Privacy Policy" [ref=e282] [cursor=pointer]:
+                - /url: https://switchhub.ca/privacy-policy/
+            - listitem [ref=e284]:
+              - link "KYC / AML / ATF Policy" [ref=e285] [cursor=pointer]:
+                - /url: https://switchhub.ca/kyc/
+            - listitem [ref=e287]:
+              - link "Terms of Service" [ref=e288] [cursor=pointer]:
+                - /url: https://switchhub.ca/terms-conditions/
+            - listitem [ref=e290]:
+              - link "Rewards" [ref=e291] [cursor=pointer]:
+                - /url: https://switchhub.ca/rewards-and-referral-program-terms-conditions/
+        - generic [ref=e293]:
+          - heading "Help & Support" [level=2] [ref=e295]
+          - list [ref=e297]:
+            - listitem [ref=e298]:
+              - link "Customer Support" [ref=e299] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e301]:
+              - link "Contact Us" [ref=e302] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e304]:
+              - link "FAQs" [ref=e305] [cursor=pointer]:
+                - /url: https://switchhub.ca/faq/
+      - generic [ref=e307]:
+        - heading "Switch Hub Consulting Inc. (Switch Hub) is registered as a Money Services Business (MSB) with the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) under registration number M22578161." [level=2] [ref=e312]
+        - heading "Switch Hub is also registered as a Payment Service Provider (PSP) and is authorized and regulated by the Bank of Canada under the Retail Payment Activities Act (RPAA) for the payment services it provides." [level=2] [ref=e314]
+        - generic [ref=e318]:
+          - heading "(C) 2026 Switch Hub. All rights reserved" [level=2] [ref=e320]
+          - generic [ref=e321]:
+            - heading "Available on" [level=2] [ref=e323]
+            - link [ref=e325] [cursor=pointer]:
+              - /url: https://onelink.to/ad8b5k
+  - generic [ref=e327]:
+    - paragraph [ref=e328]: We respect your privacy
+    - generic [ref=e329]:
+      - paragraph [ref=e331]:
+        - paragraph [ref=e332]:
+          - text: Our website uses cookies to enhance user experience by remembering your preferences and analyzing website traffic. For more information about how we use cookies, please read our
+          - link "privacy policy" [ref=e333] [cursor=pointer]:
+            - /url: https://switchhub.ca/privacy-policy/
+          - text: .
+      - generic [ref=e334]:
+        - button "Customize" [ref=e335] [cursor=pointer]
+        - button "Reject All" [ref=e336] [cursor=pointer]
+        - button "Accept All" [ref=e337] [cursor=pointer]
+    - link "Powered by" [ref=e339] [cursor=pointer]:
+      - /url: https://cookieadmin.net/?utm_source=wpplugin&utm_medium=footer
+  - generic [ref=e346]: tablet_extra
+  - iframe [ref=e347]:
+    - generic [ref=f5e1] [cursor=pointer]:
+      - img "Help" [ref=f5e2]
+      - generic [ref=f5e4]: Help

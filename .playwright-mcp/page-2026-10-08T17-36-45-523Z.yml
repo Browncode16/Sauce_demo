@@ -1,0 +1,620 @@
+- generic [active] [ref=f12e1]:
+  - banner [ref=f12e2]:
+    - generic [ref=f12e3]:
+      - link [ref=f12e6] [cursor=pointer]:
+        - /url: https://switchhub.ca
+      - navigation "Menu" [ref=f12e9]:
+        - list [ref=f12e10]:
+          - listitem [ref=f12e11]:
+            - link "About" [ref=f12e12] [cursor=pointer]:
+              - /url: https://switchhub.ca/about/
+          - listitem [ref=f12e13]:
+            - link "Contact Us" [ref=f12e14] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f12e15]:
+            - link "FAQ" [ref=f12e16] [cursor=pointer]:
+              - /url: https://switchhub.ca/faq/
+          - listitem [ref=f12e17]:
+            - link "Blog" [ref=f12e18] [cursor=pointer]:
+              - /url: https://switchhub.ca/blog/
+      - link "Download App" [ref=f12e21] [cursor=pointer]:
+        - /url: https://link.switchhub.ca/R/SWITCHWITHUS
+  - main [ref=f12e24]:
+    - list [ref=f12e32]:
+      - generic [ref=f12e33]:
+        - generic [ref=f12e34]:
+          - link [ref=f12e37] [cursor=pointer]:
+            - /url: https://switchhub.ca/before-you-click-send-double-check/
+            - img "Double-Check" [ref=f12e38]
+          - generic [ref=f12e39]:
+            - heading "LATEST ARTICLE" [level=2] [ref=f12e41]
+            - heading [level=1] [ref=f12e43]:
+              - link "Before You Click Send, Double-Check" [ref=f12e44] [cursor=pointer]:
+                - /url: https://switchhub.ca/before-you-click-send-double-check/
+            - generic [ref=f12e45]:
+              - paragraph [ref=f12e46]: "In the world of digital transactions, where Switch Hub enables you to move money with remarkable speed, there’s a vital truth often overlooked: haste can lead to heartbreak. Many a fortune has been misdirected, not by hackers, but by a simple, tragic oversight – failing to verify."
+              - paragraph [ref=f12e48]: Think of it as a pilot’s pre-flight checklist for your Switch Hub transfers. Would you board a plane if you knew the pilot skipped vital checks? Of course not. Your money transfers, especially when facilitating large sums or setting up payments for new beneficiaries through Switch Hub, deserve the same rigorous attention. The stakes are simply too high for assumptions.
+              - paragraph [ref=f12e49]:
+                - text: Scammers are cunning. They’ll mimic familiar names, alter a single digit in an account number, or create convincing invoices that lead straight to their pockets. Your
+                - link "Switch Hub" [ref=f12e50] [cursor=pointer]:
+                  - /url: https://switchhub.ca/about-us/
+                - text: app or web platform might show a recipient name, but is it the
+                - emphasis [ref=f12e51]: right
+                - text: name linked to the
+                - emphasis [ref=f12e52]: right
+                - text: account? A quick glance is rarely enough.
+              - paragraph [ref=f12e53]:
+                - text: "The solution? A simple, yet profoundly powerful act:"
+                - strong [ref=f12e54]: independent verification.
+                - text: Don’t rely solely on the information provided in an email or text, even if it looks like it’s from a trusted source. If it’s a business, call their
+                - emphasis [ref=f12e55]: official
+                - text: number (found on their website, not in the email). If it’s an individual, ring them directly on a
+                - emphasis [ref=f12e56]: known
+                - text: number to confirm the details before you initiate that transfer on Switch Hub. A brief conversation can save you a world of regret.
+              - paragraph [ref=f12e57]:
+                - text: At
+                - link "Switch Hub" [ref=f12e58] [cursor=pointer]:
+                  - /url: https://switchhub.ca/contact/
+                - text: ", we provide you with the tools for seamless transactions. We also empower you with the knowledge to make them securely. In finance, diligence is your best defense. Master the art of the double-check, and ensure your money always reaches its intended destination."
+            - link "Read" [ref=f12e60] [cursor=pointer]:
+              - /url: https://switchhub.ca/before-you-click-send-double-check/
+        - heading "All posts" [level=3] [ref=f12e65]
+      - generic [ref=f12e68]:
+        - link [ref=f12e70] [cursor=pointer]:
+          - /url: https://switchhub.ca/before-you-click-send-double-check/
+          - img "Double-Check" [ref=f12e71]
+        - heading [level=1] [ref=f12e73]:
+          - link "Before You Click Send, Double-Check" [ref=f12e74] [cursor=pointer]:
+            - /url: https://switchhub.ca/before-you-click-send-double-check/
+      - generic [ref=f12e77]:
+        - link [ref=f12e79] [cursor=pointer]:
+          - /url: https://switchhub.ca/your-devices-your-fortress-keep-them-safe/
+          - img "Keep Them Safe" [ref=f12e80]
+        - heading [level=1] [ref=f12e82]:
+          - 'link "Your Devices: Your Fortress. Keep Them Safe." [ref=f12e83] [cursor=pointer]':
+            - /url: https://switchhub.ca/your-devices-your-fortress-keep-them-safe/
+        - generic [ref=f12e84]:
+          - paragraph [ref=f12e85]: In today’s digital age, your phone and computer aren’t just gadgets; they’re your connection to everything – your bank, your memories, your loved ones. Yet, many treat them like open doors, inviting trouble without a second thought. This simply won’t do. Just as a shrewd investor guards their assets, you must safeguard your digital life.
+          - paragraph [ref=f12e86]: "Consider this: Outdated software is an open invitation for thieves. Every time you ignore an update, you’re leaving a known vulnerability exposed. It’s like leaving your front door unlocked because you can’t be bothered to turn the key. So, click ‘update’ – it’s a small effort for immense protection."
+          - paragraph [ref=f12e87]: "Then there’s the unseen enemy: malware. You wouldn’t walk through a dangerous neighborhood without protection, would you? Antivirus software is your digital bodyguard, constantly scanning for threats. Install it, keep it updated, and let it do its job."
+          - paragraph [ref=f12e88]: Finally, the siren song of public Wi-Fi. Free internet, you say? Perhaps. But these networks are often unsecured, a bustling marketplace where your private data is fair game for prying eyes. Avoid logging into sensitive accounts on public Wi-Fi. Better yet, use a Virtual Private Network (VPN) – it’s your private, encrypted tunnel through the chaos.
+          - paragraph [ref=f12e89]: These aren’t complex maneuvers; they are fundamental disciplines. Adopt them, and transform your devices from vulnerable targets into impenetrable fortresses. Your peace of mind (and your financial security) demands it.
+      - generic [ref=f12e92]:
+        - link [ref=f12e94] [cursor=pointer]:
+          - /url: https://switchhub.ca/part-3-avoiding-pitfalls-and-finding-your-way-home-when-to-seek-help/
+          - img "Avoiding Pitfalls" [ref=f12e95]
+        - heading [level=1] [ref=f12e97]:
+          - 'link "Part 3: Avoiding Pitfalls and Finding Your Way Home: When to Seek Help" [ref=f12e98] [cursor=pointer]':
+            - /url: https://switchhub.ca/part-3-avoiding-pitfalls-and-finding-your-way-home-when-to-seek-help/
+        - generic [ref=f12e99]:
+          - paragraph [ref=f12e100]: Friends, we’ve come to the final part of our conversation, “Managing Debt in Canada.” We’ve understood the different types of debt and explored strategies for repayment. Today, let’s talk about protecting ourselves from hidden dangers and, most importantly, recognizing when to reach out for a helping hand.
+          - paragraph [ref=f12e101]: Now, a word of caution, dear friends. Just as there are safe paths, there are also mirages and quicksand in the financial world. Beware of what are often called “payday loans” and other predatory lenders.
+          - paragraph [ref=f12e102]: Imagine you’re thirsty in a desert, and someone offers you a sip of water for an exorbitant price, knowing you’re desperate. That’s what these loans can feel like. They offer quick cash, but their interest rates are astronomical – far higher than anything you’d encounter at a reputable Canadian bank or credit union. What seems like a lifeline can quickly become a heavy anchor, dragging you deeper into debt. Their advertisements might sound friendly and helpful, but their terms can be devastating.
+          - paragraph [ref=f12e103]:
+            - strong [ref=f12e104]: "In Canada, always deal with recognized financial institutions:"
+            - text: your banks, credit unions, and licensed lenders. If something feels too easy, or too good to be true, it likely is. Seek wisdom, not desperation.
+          - paragraph [ref=f12e105]: Sometimes, despite our best efforts, the backpack of debt can become so heavy, it feels impossible to lift. This is not a sign of failure, but a sign that it’s time to reach out for a helping hand.
+          - list [ref=f12e106]:
+            - listitem [ref=f12e107]: Are you making only minimum payments on your credit cards?
+            - listitem [ref=f12e108]: Are you borrowing from one source to pay another?
+            - listitem [ref=f12e109]: Are you feeling constant stress or anxiety about money?
+            - listitem [ref=f12e110]: Are collection calls becoming frequent?
+            - listitem [ref=f12e111]: Are you avoiding opening bills?
+          - paragraph [ref=f12e112]: These are not weaknesses but signals. Just as a compass points north, these signs point to a need for guidance.
+          - paragraph [ref=f12e113]: In Canada, there are wonderful, compassionate resources available to you.
+          - paragraph [ref=f12e114]:
+            - strong [ref=f12e115]: "Non-profit Credit Counselling Agencies:"
+            - text: These organizations (often called “consumer credit counselling services”) offer free or low-cost advice. They can help you create a budget, negotiate with creditors, and explore options like debt management plans. They are like experienced guides who know the terrain well.
+          - list [ref=f12e116]:
+            - listitem [ref=f12e117]:
+              - strong [ref=f12e118]: "Your Bank or Credit Union:"
+              - text: Don’t be afraid to talk to your financial institution. They may have solutions or advice to offer.
+            - listitem [ref=f12e119]:
+              - strong [ref=f12e120]: "Trusted Friends or Family:"
+              - text: Sometimes, just sharing your burden with someone you trust can lighten the load.
+          - paragraph [ref=f12e121]
+          - paragraph
+      - generic [ref=f12e124]:
+        - link [ref=f12e126] [cursor=pointer]:
+          - /url: https://switchhub.ca/part-2-charting-your-course-smart-strategies-for-debt-repayment/
+          - img "Managing Debt" [ref=f12e127]
+        - heading [level=1] [ref=f12e129]:
+          - 'link "Part 2: Charting Your Course: Smart Strategies for Debt Repayment" [ref=f12e130] [cursor=pointer]':
+            - /url: https://switchhub.ca/part-2-charting-your-course-smart-strategies-for-debt-repayment/
+        - generic [ref=f12e131]:
+          - paragraph [ref=f12e132]: Welcome back, friends! Last time, we began our journey into understanding debt, likening different types to items in our financial backpack. We learned that while debt can be a tool, it requires wise handling. Today, in Part 2 of “Managing Debt in Canada,” let’s talk about the practical steps – the very map and compass – for charting your course out of debt.
+          - paragraph [ref=f12e133]: So, you find yourself carrying some debt. Don’t despair! Just as we plan a journey, we can plan our path out of debt. The goal is to move from feeling overwhelmed to feeling empowered.
+          - list [ref=f12e134]:
+            - listitem [ref=f12e135]:
+              - strong [ref=f12e136]: "The “Snowball” or “Avalanche” Method:"
+              - text: Imagine a small snowball rolling down a hill, gathering more snow and getting bigger. That’s the
+              - strong [ref=f12e137]: Snowball Method
+              - text: ": you pay off your smallest debt first, then take the money you were paying on that and add it to the next smallest, gaining momentum and encouragement as you go. Or, consider the"
+              - strong [ref=f12e138]: Avalanche Method
+              - text: ": tackle the debt with the"
+              - emphasis [ref=f12e139]: highest interest rate
+              - text: first. This saves you the most money in the long run, like diverting a swift stream to stop erosion. Both are good paths; choose the one that keeps your spirit lightest and most motivated.
+            - listitem [ref=f12e140]:
+              - strong [ref=f12e141]: "Make Extra Payments (Even Small Ones):"
+              - text: Every dollar extra you put towards your principal is like a gust of wind at your back. It reduces the interest you pay over time. Can you skip that extra latte once a week and put that money towards your credit card? Small sacrifices can yield big rewards. It’s about consistent, gentle effort, not heroic leaps.
+            - listitem [ref=f12e142]:
+              - strong [ref=f12e143]: "Consolidate (With Caution):"
+              - text: "Sometimes, gathering all your smaller, high-interest debts into one larger loan with a lower interest rate can simplify things. It’s like packing several small, heavy bags into one manageable suitcase. But be careful: ensure the new interest rate is truly lower and that you don’t use the newly freed up credit lines to accumulate more debt. This is a path for the disciplined; it requires careful consideration."
+          - paragraph [ref=f12e144]: These strategies aren’t about magic; they’re about methodical, patient work. As you begin to apply them, you’ll feel the load lighten. In our final post, we’ll discuss avoiding common pitfalls and where to turn if the burden becomes too heavy to bear alone.
+      - generic [ref=f12e147]:
+        - link [ref=f12e149] [cursor=pointer]:
+          - /url: https://switchhub.ca/managing-debt-in-canada/
+          - img "Managing debt" [ref=f12e150]
+        - heading [level=1] [ref=f12e152]:
+          - link "Managing Debt in Canada" [ref=f12e153] [cursor=pointer]:
+            - /url: https://switchhub.ca/managing-debt-in-canada/
+        - generic [ref=f12e154]:
+          - heading [level=3] [ref=f12e155]:
+            - strong [ref=f12e156]: "Part 1: Understanding Different Types of Debt"
+          - paragraph [ref=f12e157]: "Friends, can we have a quiet moment, just you and me? Let’s talk about something that often whispers anxieties into our ears, something that can feel like a heavy cloak draped over our shoulders: debt. In this beautiful land of Canada, with its vast landscapes and warm hearts, even here, debt can cast a long shadow. But take heart! Just as a skilled hiker navigates a rocky path, we too can navigate the terrain of our finances with wisdom and grace."
+          - paragraph [ref=f12e158]: You see, debt isn’t inherently evil. It’s simply a tool, like a hammer or a shovel. In the right hands, it can build and create. In the wrong hands, or when mishandled, it can cause unintended harm. Our goal today, in this first part of our conversation, is to understand this tool better, to pick it up wisely, and to begin to understand the unique characteristics of the debt we might carry.
+          - paragraph [ref=f12e159]: Let’s imagine debt as different items we might carry in our financial backpack. Each has its purpose, but also its weight and cost.
+          - list [ref=f12e160]:
+            - listitem [ref=f12e161]:
+              - strong [ref=f12e162]: "Credit Cards: The Everyday Convenience, The Sneaky Burden."
+              - text: Ah, the credit card. So easy to swipe, so convenient for those everyday purchases or unexpected needs. But my friends, this is often the heaviest item in the backpack if not managed with care. Those interest rates? They can be steep, like a challenging mountain climb. If you carry a balance month to month, you’re not just paying for what you bought; you’re paying
+              - emphasis [ref=f12e163]: extra
+              - text: for the privilege of buying it. It’s like buying a coffee, then paying for it again, and again, with interest.
+            - listitem [ref=f12e164]:
+              - strong [ref=f12e165]: "Lines of Credit: Flexible, But Firm."
+              - text: A line of credit offers more flexibility, perhaps for a home renovation or an educational pursuit. It’s like a path you can choose to walk on or not, borrowing as needed. The interest rates are often lower than credit cards, making it a more manageable load. But remember, flexibility doesn’t mean freedom from responsibility. Every dollar borrowed must be returned, with its own cost.
+            - listitem [ref=f12e166]:
+              - strong [ref=f12e167]: "Loans: The Definite Journey."
+              - text: Think of a car loan or a student loan. These are specific journeys with a defined destination and a clear repayment schedule. The interest rates are generally lower still, making them a more predictable companion on your path. They are designed to help you acquire assets or invest in your future. These are typically the most “benevolent” forms of debt, when used thoughtfully.
+          - paragraph [ref=f12e168]: Understanding these different types is the first step toward managing them. In our next post, we’ll explore practical strategies for charting your course out of debt. Until then, take a moment to look at your own financial backpack and save
+          - paragraph
+      - generic [ref=f12e171]:
+        - link [ref=f12e173] [cursor=pointer]:
+          - /url: https://switchhub.ca/mastering-budgeting-in-canada-as-a-newcomer/
+          - img "Budgeting in Canada" [ref=f12e174]
+        - heading [level=1] [ref=f12e176]:
+          - link "Mastering Budgeting in Canada as A Newcomer" [ref=f12e177] [cursor=pointer]:
+            - /url: https://switchhub.ca/mastering-budgeting-in-canada-as-a-newcomer/
+        - generic [ref=f12e178]:
+          - paragraph [ref=f12e179]: Welcome to the practical side of life in Canada! While exploring your new home is exciting, understanding how to manage your finances—those loonies and toonies, as we call them—is essential for a stress-free start. In this guide, we’ll break down budgeting in Canada, tracking expenses, navigating Canadian taxes, and making smart choices to stretch your dollars further.
+          - paragraph [ref=f12e180]:
+            - strong [ref=f12e181]: Creating a Realistic Budget for Canadian Living
+            - text: The first step in managing your money is building a realistic budget that reflects the
+            - emphasis [ref=f12e182]: true cost of living in Canada
+            - text: ". Focus on your major expenses:"
+          - list [ref=f12e183]:
+            - listitem [ref=f12e184]:
+              - strong [ref=f12e185]: Housing
+              - text: ": Rent or mortgage payments, utilities (electricity, heating, internet)"
+            - listitem [ref=f12e186]:
+              - strong [ref=f12e187]: Food
+              - text: ": Grocery bills (which can be a surprise depending on the season or store)"
+            - listitem [ref=f12e188]:
+              - strong [ref=f12e189]: Transportation
+              - text: ": Public transit passes, gas, car insurance"
+            - listitem [ref=f12e190]:
+              - strong [ref=f12e191]: Other essentials
+              - text: ": Cell phone plans, personal insurance, and childcare if applicable"
+          - paragraph [ref=f12e192]: Being honest and detailed with your numbers helps you build a solid financial foundation.
+          - paragraph [ref=f12e193]:
+            - strong [ref=f12e194]: "Tracking Your Expenses: Every Dollar Counts"
+            - text: Budgeting isn’t about restriction—it’s about awareness. Use a simple spreadsheet or download one of the many user-friendly budgeting apps in Canada to keep tabs on your daily spending. Tracking your expenses reveals patterns and highlights where you can cut back, helping you take control of your financial habits.
+          - paragraph [ref=f12e195]:
+            - strong [ref=f12e196]: "Understanding Canadian Taxes: What You Need to Know"
+            - text: "Taxes are part of everyday life in Canada. Here are a few key terms:"
+          - list [ref=f12e197]:
+            - listitem [ref=f12e198]:
+              - strong [ref=f12e199]: GST/HST
+              - text: ": A sales tax in Canada added to most purchases. The price on the shelf is often not the final total."
+            - listitem [ref=f12e200]:
+              - strong [ref=f12e201]: Income Tax
+              - text: ": Automatically deducted from your paycheck if you’re employed."
+          - paragraph [ref=f12e202]: Understanding how taxes work in Canada means fewer surprises when you check receipts or pay stubs. These contributions fund essential services like healthcare and education.
+          - paragraph [ref=f12e203]:
+            - strong [ref=f12e204]: Smart Ways to Save Money in Canada
+            - text: "Now for the fun part—saving smart! Try these tips:"
+          - list [ref=f12e205]:
+            - listitem [ref=f12e206]:
+              - strong [ref=f12e207]: Groceries
+              - text: ": Compare weekly flyers, shop at discount stores, and buy in season"
+            - listitem [ref=f12e208]:
+              - strong [ref=f12e209]: Transportation
+              - text: ": Use monthly transit passes or consider carpooling"
+            - listitem [ref=f12e210]:
+              - strong [ref=f12e211]: Entertainment
+              - text: ": Explore free community events, local library programs, and take advantage of student or newcomer discounts"
+          - paragraph [ref=f12e212]: Little savings add up quickly and make a big difference in your monthly budget.
+          - paragraph [ref=f12e213]:
+            - strong [ref=f12e214]: Mastering your budget in Canada
+            - text: isn’t just about numbers—it’s about empowerment. At Switch Hub, we’re here to support your journey with currency exchange and money transfer services, helping you stay connected with loved ones wherever they are.
+      - generic [ref=f12e217]:
+        - link [ref=f12e219] [cursor=pointer]:
+          - /url: https://switchhub.ca/a-newcomers-guide-to-building-a-strong-credit-history/
+          - img "Strong Credit" [ref=f12e220]
+        - heading [level=1] [ref=f12e222]:
+          - link "A Newcomer’s Guide to Building a Strong Credit History" [ref=f12e223] [cursor=pointer]:
+            - /url: https://switchhub.ca/a-newcomers-guide-to-building-a-strong-credit-history/
+        - generic [ref=f12e224]:
+          - paragraph [ref=f12e225]: "Welcome to Canada! As you embark on this exciting new chapter, let’s talk about something incredibly important for your financial well-being here: building a strong credit history. In many countries, “credit” might feel a bit abstract, but in Canada, it’s a powerful tool that truly impacts your everyday life."
+          - paragraph [ref=f12e226]:
+            - strong [ref=f12e227]: Why Your Credit Score is Your New Best Friend
+            - text: Think of your credit score as your financial reputation. Landlords often peek at it when you’re looking for a place to live, using it to gauge if you’re a reliable tenant. Banks lean on it heavily when you apply for loans – whether it’s for a car, to pursue further education, or even that big dream of buying a home. You might be surprised to learn that some employers even consider it, especially for roles that involve handling money. It’s essentially a signal that you’re trustworthy when it comes to financial commitments.
+          - paragraph [ref=f12e228]:
+            - strong [ref=f12e229]: Your First Steps to Building That All-Important Score
+            - text: No Canadian credit history? No problem! Most newcomers start from scratch, and that’s perfectly normal. A fantastic starting point is a secured credit card. Here, you put down a deposit, which becomes your credit limit. It’s low-risk for the bank, and it gives you the perfect opportunity to show you can make payments consistently. Another smart move can be a credit-building loan offered by some credit unions. These are specifically designed to help you establish a positive payment record.
+          - paragraph [ref=f12e230]:
+            - strong [ref=f12e231]: Decoding Your Credit Score
+            - text: Your credit score is a three-digit number, usually ranging from 300 to 900. It’s not magic; it’s a calculation based on things like your
+            - strong [ref=f12e232]: payment history
+            - text: (always pay on time!), how much debt you carry, how long you’ve had credit, and the types of credit you use. Your goal is to see that number climb!
+          - paragraph [ref=f12e233]:
+            - strong [ref=f12e234]: "Using Credit Wisely: Avoiding the Traps"
+            - text: This is where responsibility comes in. Use your credit card sparingly – for small, manageable purchases – and
+            - strong [ref=f12e235]: always, always pay your bills in full and on time
+            - text: . Avoid “maxing out” your cards, and definitely steer clear of those high-interest “payday” loans; they can quickly derail your progress. With a bit of patience and consistent, smart financial habits, you’ll build a solid credit history that opens many doors in your Canadian journey.
+      - generic [ref=f12e238]:
+        - link [ref=f12e240] [cursor=pointer]:
+          - /url: https://switchhub.ca/making-friends-and-building-a-community-abroad-why-it-matters/
+          - img "Building a Community" [ref=f12e241]
+        - heading [level=1] [ref=f12e243]:
+          - link "Making Friends and Building a Community Abroad—Why It Matters" [ref=f12e244] [cursor=pointer]:
+            - /url: https://switchhub.ca/making-friends-and-building-a-community-abroad-why-it-matters/
+        - generic [ref=f12e245]:
+          - paragraph [ref=f12e246]: Settling into a new country isn’t just about finding a job or a place to live; it’s about feeling at home and building a Community. And nothing speeds that up like finding your people.
+          - paragraph [ref=f12e247]: Making friends can be tough, especially when adjusting to a new language or culture. Getting involved in local communities, expat groups, or cultural organizations can make all the difference. Whether it’s joining a sports club, attending networking events, or volunteering, connecting with others makes life abroad feel less isolating.
+          - paragraph [ref=f12e248]: A strong support system helps in ways you don’t expect; whether it’s finding new job opportunities, learning the financial ropes, or just having someone to grab coffee with after a long week. Plus, friendships make big moments feel special, whether you’re celebrating a new job or sending money home to family.
+          - paragraph [ref=f12e249]: The goal is to achieve stability in your new environment and discover joy throughout the journey.
+      - generic [ref=f12e252]:
+        - link [ref=f12e254] [cursor=pointer]:
+          - /url: https://switchhub.ca/how-to-make-your-paycheck-go-further-in-a-new-country/
+          - img "Make Your Paycheck Go Further" [ref=f12e255]
+        - heading [level=1] [ref=f12e257]:
+          - link "How to Make Your Paycheck Go Further in a New Country" [ref=f12e258] [cursor=pointer]:
+            - /url: https://switchhub.ca/how-to-make-your-paycheck-go-further-in-a-new-country/
+        - generic [ref=f12e259]:
+          - paragraph [ref=f12e260]: Moving to a new country is a fresh start with financial implications. Rent, groceries, transportation, and all other unexpected costs add up fast. And when you’re also sending money home, stretching your paycheck becomes an art.
+          - paragraph [ref=f12e261]: The trick?
+          - paragraph [ref=f12e262]:
+            - strong [ref=f12e263]: Know where to spend and where to save
+            - text: First, shop smarter—many cities have discount grocery chains, second-hand furniture stores, and free community resources for newcomers. If you’re spending too much on bank fees, swap to low-cost financial services that keep more of your money in your pocket.
+          - paragraph [ref=f12e264]:
+            - strong [ref=f12e265]: Think long-term
+            - text: Budgeting apps help track spending, and setting aside even a small amount each month builds financial security. If you’re feeling stuck in a low-paying job, invest in skills or certifications that boost your earnings; it’s worth it.
+          - paragraph [ref=f12e266]:
+            - link "Switch Hub" [ref=f12e267] [cursor=pointer]:
+              - /url: https://switchhub.ca/contact/
+            - text: helps immigrants save on remittance fees, meaning more of your hard-earned money goes where it matters most. Smart spending today means a brighter financial future tomorrow.
+      - generic [ref=f12e270]:
+        - link [ref=f12e272] [cursor=pointer]:
+          - /url: https://switchhub.ca/sending-money-home-without-sacrificing-your-own-dreams/
+          - img "Sending money home" [ref=f12e273]
+        - heading [level=1] [ref=f12e275]:
+          - link "Sending Money Home Without Sacrificing Your Own Dreams" [ref=f12e276] [cursor=pointer]:
+            - /url: https://switchhub.ca/sending-money-home-without-sacrificing-your-own-dreams/
+        - generic [ref=f12e277]:
+          - paragraph [ref=f12e278]: Let’s be real, moving to a new country is exciting. However, it comes with significant financial pressures. One of the biggest? Sending money home. You want to support your family, but at the same time, you’re trying to build a life, chase dreams, and actually enjoy your new home.
+          - paragraph [ref=f12e279]: So, how do you balance it all without feeling stretched thin? Smart budgeting and picking the right remittance service are key. Not all money transfer services are created equal; some take a huge chunk in fees, and others offer terrible exchange rates. That means less money goes to your family and more is lost in the system.
+          - paragraph [ref=f12e280]:
+            - text: "Here’s the move: Look for low-fee, high-speed transfer options like"
+            - link "Switch Hub" [ref=f12e281] [cursor=pointer]:
+              - /url: https://switchhub.ca/contact/
+            - text: that ensure every dollar you send goes further. If you’re making frequent transfers, setting up scheduled payments when rates are favourable can help maximise what your family receives.
+          - paragraph [ref=f12e282]: But remember, YOU matter too. Saving for yourself—whether it’s a future home, an emergency fund, or even a well-deserved vacation—should be just as much of a priority. Supporting family doesn’t mean putting your life on pause. It means making money moves that set you up for success while helping the people who need you most.
+      - generic [ref=f12e285]:
+        - link [ref=f12e287] [cursor=pointer]:
+          - /url: https://switchhub.ca/switch-hub-joins-the-circle-network/
+          - img "Switch Hub Joins the Circle Network" [ref=f12e288]
+        - heading [level=1] [ref=f12e290]:
+          - link "Switch Hub Joins the Circle Network" [ref=f12e291] [cursor=pointer]:
+            - /url: https://switchhub.ca/switch-hub-joins-the-circle-network/
+        - generic [ref=f12e292]:
+          - paragraph [ref=f12e293]:
+            - text: Hey friends, we have some good news to share. Switch Hub Joins the Circle Network! This milestone isn’t just a feather in our cap; it’s a game-changer in how we serve you. For those who might be wondering, the
+            - link "Circle Network" [ref=f12e294] [cursor=pointer]:
+              - /url: https://www.circle.com
+            - text: is a vibrant global community of innovative financial technology companies. By joining forces with them, we open the door to world-class insights and cutting-edge solutions that help redefine cross-border payments.
+          - paragraph [ref=f12e295]:
+            - text: Becoming a
+            - link "Circle Network" [ref=f12e296] [cursor=pointer]:
+              - /url: https://www.circle.com
+            - text: member means that our partners, and you, our valued customers, benefit from enhanced collaboration with industry leaders. It empowers us to harness new technologies, streamline processes, and push the envelope on security, speed, and cost-effectiveness when sending money across borders. Imagine faster transfers, more transparent fee structures, and a service platform that’s always evolving to meet emerging needs. This is exactly what our partnership with
+            - link "Circle" [ref=f12e297] [cursor=pointer]:
+              - /url: https://www.circle.com
+            - text: brings to the table.
+          - paragraph [ref=f12e298]:
+            - text: What does this mean for your everyday life? It means that whether you’re sending money to family overseas or managing international transactions for your business, you can trust that
+            - link "Switch Hub" [ref=f12e299] [cursor=pointer]:
+              - /url: https://switchhub.ca/contact/
+            - text: is backed by a powerhouse of innovation and real-world expertise. We’re not just keeping up with the fast-paced world of global remittances; we’re setting the pace, ensuring you get the best possible service in a connected world.
+          - paragraph [ref=f12e300]: We invite you to celebrate this milestone with us as we embark on this exciting new journey. Stay tuned for more updates and features, all designed with you in mind. Together, we’re making global money movement simpler, smarter, and seamless.
+          - paragraph [ref=f12e301]:
+            - text: Explore more about Circle and what our partnership means at
+            - link "Circle.com" [ref=f12e302] [cursor=pointer]:
+              - /url: https://www.circle.com
+      - generic [ref=f12e305]:
+        - link [ref=f12e307] [cursor=pointer]:
+          - /url: https://switchhub.ca/a-newcomers-guide-to-sending-money-without-getting-scammed/
+          - img "Sending Money Without Getting Scammed" [ref=f12e308]
+        - heading [level=1] [ref=f12e310]:
+          - link "A Newcomer’s Guide to Sending Money Without Getting Scammed" [ref=f12e311] [cursor=pointer]:
+            - /url: https://switchhub.ca/a-newcomers-guide-to-sending-money-without-getting-scammed/
+        - generic [ref=f12e312]:
+          - paragraph [ref=f12e313]: Just arrived in Canada and need to send money back home? You’re not alone—but before you hit “send,” it’s crucial to protect yourself from scams. Many newcomers fall victim to fake money transfer sites, phishing messages, or inflated exchange rates with hidden fees.
+          - paragraph [ref=f12e314]:
+            - text: "Here’s how to stay safe:"
+            - img "✅" [ref=f12e315]
+            - text: Always use a licensed and regulated platform.
+            - link "Switch Hub" [ref=f12e316] [cursor=pointer]:
+              - /url: https://switchhub.ca/about-us/
+            - text: is registered with FINTRAC in Canada and uses advanced encryption to protect your data and money.
+            - img "✅" [ref=f12e317]
+            - text: Avoid clicking on random links or downloading suspicious apps. Only download the official Switch Hub app from trusted sources like the
+            - link "App Store" [ref=f12e318] [cursor=pointer]:
+              - /url: https://www.apple.com/app-store/
+            - text: or
+            - link "Google Play" [ref=f12e319] [cursor=pointer]:
+              - /url: https://play.google.com/store/games?hl=en
+            - text: .
+            - img "✅" [ref=f12e320]
+            - text: Watch out for deals that seem too good to be true. Fraudsters often lure people in with “no transfer fees” only to charge hidden costs or steal information.
+            - img "✅" [ref=f12e321]
+            - text: Use services that offer real-time exchange rates, transparent fees, and multiple payout options like mobile wallets and bank deposits.
+          - paragraph [ref=f12e322]: At Switch Hub, we make international money transfers from Canada fast, secure, and affordable. Whenever you’re sending money to Nigeria, you can count on us to deliver peace of mind.
+      - generic [ref=f12e325]:
+        - link [ref=f12e327] [cursor=pointer]:
+          - /url: https://switchhub.ca/understanding-taxes-in-canada-as-a-new-immigrant/
+          - img "Understanding Taxes in Canada" [ref=f12e328]
+        - heading [level=1] [ref=f12e330]:
+          - link "Understanding Taxes in Canada as a New Immigrant" [ref=f12e331] [cursor=pointer]:
+            - /url: https://switchhub.ca/understanding-taxes-in-canada-as-a-new-immigrant/
+        - generic [ref=f12e332]:
+          - paragraph [ref=f12e333]:
+            - text: If you are new to Canada, navigating the tax system can seem overwhelming—but it doesn’t have to be. Regardless of whether you are working part-time, full-time, or are self-employed, you are required to file a tax return each year with the Canada Revenue Agency (CRA). Filing your tax return helps determine if you owe taxes or if you qualify for refunds or benefits.Your income from all sources—inside and outside of Canada—must be reported. Yes, that includes freelance work or money made abroad. But don’t worry, filing is easier than you think. You can file online using certified software or with help from tax clinics available in many communities.Why does this matter for your money transfers? Keeping your finances organized ensures smoother international remittance, avoids compliance issues, and helps you manage foreign income properly. With
+            - link "Switch Hub" [ref=f12e334] [cursor=pointer]:
+              - /url: https://switchhub.ca/about-us/
+            - text: ", you can send and receive money online with confidence, knowing your transactions are secure, fast, and compliant.We offer instant money transfers, real-time exchange rates, and encrypted transactions, all with no hidden fees. When sending money to Nigeria,"
+            - link "Switch Hub" [ref=f12e335] [cursor=pointer]:
+              - /url: https://switchhub.ca/contact/
+            - text: simplifies cross-border payments, making them easy and stress-free.Stay financially smart, understand your taxes and use
+            - link "Switch Hub" [ref=f12e336] [cursor=pointer]:
+              - /url: https://switchhub.ca/contact/
+            - text: to move your money the right way.
+          - paragraph
+      - generic [ref=f12e339]:
+        - link [ref=f12e341] [cursor=pointer]:
+          - /url: https://switchhub.ca/top-side-hustles-for-immigrants-in-canada/
+          - img "Side Hustles" [ref=f12e342]
+        - heading [level=1] [ref=f12e344]:
+          - link "Top Side Hustles for Immigrants in Canada" [ref=f12e345] [cursor=pointer]:
+            - /url: https://switchhub.ca/top-side-hustles-for-immigrants-in-canada/
+        - generic [ref=f12e346]:
+          - paragraph [ref=f12e347]:
+            - text: Embarking on a new journey in Canada can be exciting. A rewarding side hustle can boost your income and help you support your loved ones back home easily with services like
+            - link "Switch Hub" [ref=f12e348] [cursor=pointer]:
+              - /url: https://switchhub.ca/about-us/
+            - text: ".Here are some great side hustles for newcomers:"
+          - list [ref=f12e349]:
+            - listitem [ref=f12e350]:
+              - strong [ref=f12e351]:
+                - strong [ref=f12e352]: Rideshare or Delivery
+              - text: ": Apps like"
+              - link "Uber" [ref=f12e353] [cursor=pointer]:
+                - /url: https://www.uber.com/ng/en/
+              - text: ","
+              - link "SkipTheDishes" [ref=f12e354] [cursor=pointer]:
+                - /url: https://www.skipthedishes.com/
+              - text: ", or"
+              - link "DoorDash" [ref=f12e355] [cursor=pointer]:
+                - /url: https://www.doordash.com/?srsltid=AfmBOoqew60G5xhK2ltU121jakEdR7IsHqxfLgKI3CqlVq7DE34ns7AD
+              - text: let you work flexible hours with your own car or bike.
+            - listitem [ref=f12e356]:
+              - strong [ref=f12e357]: "Freelancing:"
+              - text: If you have skills in writing, design, or tech, websites like Upwork or Fiverr can connect you with clients globally.
+            - listitem [ref=f12e358]:
+              - strong [ref=f12e359]: Tutoring or Language Lessons
+              - text: ": Bilingual? Offer lessons online or in-person for students or professionals."
+            - listitem [ref=f12e360]:
+              - strong [ref=f12e361]: Home Services
+              - text: ": Cleaning, childcare, or handyman jobs are always in demand and pay well locally."
+            - listitem [ref=f12e362]:
+              - strong [ref=f12e363]: Sell Online
+              - text: ": Use Etsy or Facebook Marketplace to sell crafts, food, or imported goods.No matter how you earn, Switch Hub helps you send money online with low transfer fees, fast delivery, and competitive exchange rates."
+          - paragraph [ref=f12e364]:
+            - text: Earn smart. Send smart. Switch to
+            - link "Switch Hub" [ref=f12e365] [cursor=pointer]:
+              - /url: https://switchhub.ca/contact/
+            - text: .
+          - paragraph
+      - generic [ref=f12e368]:
+        - link [ref=f12e370] [cursor=pointer]:
+          - /url: https://switchhub.ca/monthly-expenses-you-should-expect-as-a-new-immigrant/
+          - img "Monthly Expenses" [ref=f12e371]
+        - heading [level=1] [ref=f12e373]:
+          - link "Monthly Expenses You Should Expect as a New Immigrant" [ref=f12e374] [cursor=pointer]:
+            - /url: https://switchhub.ca/monthly-expenses-you-should-expect-as-a-new-immigrant/
+        - generic [ref=f12e375]:
+          - paragraph [ref=f12e376]: Moving to Canada comes with excitement and a new budget. Understanding your monthly expenses helps you plan wisely and avoid surprises as you settle in.
+          - paragraph [ref=f12e378]:
+            - strong [ref=f12e379]: Housing
+            - text: will likely be your biggest cost. Rent varies by city, but newcomers often spend a large portion of their income on apartments or shared housing. Be sure to factor in utilities like electricity, water, and internet.
+          - figure [ref=f12e380]:
+            - table [ref=f12e381]:
+              - rowgroup [ref=f12e382]:
+                - row [ref=f12e383]:
+                  - cell [ref=f12e384]:
+                    - strong [ref=f12e385]: City
+                  - cell [ref=f12e386]:
+                    - strong [ref=f12e387]: Studio
+                  - cell [ref=f12e388]:
+                    - strong [ref=f12e389]: 1 Bedroom
+                  - cell [ref=f12e390]:
+                    - strong [ref=f12e391]: 2 Bedrooms
+                  - cell [ref=f12e392]:
+                    - strong [ref=f12e393]: 3 Bedrooms
+                - row [ref=f12e394]:
+                  - cell [ref=f12e395]:
+                    - strong [ref=f12e396]: Toronto
+                  - cell "$1766" [ref=f12e397]
+                  - cell "$2110" [ref=f12e398]
+                  - cell "$2791" [ref=f12e399]
+                  - cell "$3064" [ref=f12e400]
+                - row [ref=f12e401]:
+                  - cell [ref=f12e402]:
+                    - strong [ref=f12e403]: Ottawa
+                  - cell "$1487" [ref=f12e404]
+                  - cell "$1806" [ref=f12e405]
+                  - cell "$2242" [ref=f12e406]
+                  - cell "$2688" [ref=f12e407]
+                - row [ref=f12e408]:
+                  - cell [ref=f12e409]:
+                    - strong [ref=f12e410]: Calgary
+                  - cell "$1405" [ref=f12e411]
+                  - cell "$1624" [ref=f12e412]
+                  - cell "$1888" [ref=f12e413]
+                  - cell "$2143" [ref=f12e414]
+                - row [ref=f12e415]:
+                  - cell [ref=f12e416]:
+                    - strong [ref=f12e417]: Montreal
+                  - cell "$1369" [ref=f12e418]
+                  - cell "$1799" [ref=f12e419]
+                  - cell "$2302" [ref=f12e420]
+                  - cell "$3189" [ref=f12e421]
+                - row [ref=f12e422]:
+                  - cell [ref=f12e423]:
+                    - strong [ref=f12e424]: Edmonton
+                  - cell "$1214" [ref=f12e425]
+                  - cell "$1355" [ref=f12e426]
+                  - cell "$1601" [ref=f12e427]
+                  - cell "$1833" [ref=f12e428]
+          - paragraph [ref=f12e429]:
+            - strong [ref=f12e430]: "Table: Average rental cost in some major Canadian cities"
+          - paragraph [ref=f12e431]:
+            - strong [ref=f12e432]: Transportation
+            - text: is another key expense. If you live in a major city, a monthly public transit pass is usually more affordable than owning a car. However, if you need to drive, remember to include car payments, insurance, gas, and maintenance.
+          - paragraph [ref=f12e433]:
+            - strong [ref=f12e434]: Groceries and food costs
+            - text: depend on your household size and eating habits. Shopping at affordable stores such as Canadian Superstore, Food Basics, Walmart and cooking at home can help keep costs low.
+          - paragraph [ref=f12e435]: Don’t forget cell phone plans, health insurance (if not yet eligible for public coverage), and childcare if you have kids.
+          - paragraph [ref=f12e436]:
+            - text: Many immigrants also send money back home to support their families, which is another regular expense to plan for. Services like
+            - link "Switch Hub" [ref=f12e437] [cursor=pointer]:
+              - /url: https://switchhub.ca/contact/
+            - text: help make cross-border payments affordable and secure.
+          - paragraph [ref=f12e438]: By understanding these common expenses, you can create a budget that supports both your life in Canada and your commitments back home.
+      - generic [ref=f12e441]:
+        - link [ref=f12e443] [cursor=pointer]:
+          - /url: https://switchhub.ca/how-switch-hub-makes-money-transfers-faster-safer-and-more-affordable/
+          - img "Money Transfers" [ref=f12e444]
+        - heading [level=1] [ref=f12e446]:
+          - link "How Switch Hub Makes Money Transfers Faster, Safer, and More Affordable" [ref=f12e447] [cursor=pointer]:
+            - /url: https://switchhub.ca/how-switch-hub-makes-money-transfers-faster-safer-and-more-affordable/
+        - generic [ref=f12e448]:
+          - paragraph [ref=f12e449]: At Switch Hub, we’re changing the way you send money internationally, making transfers faster, safer, and more affordable than ever before.
+          - list [ref=f12e450]:
+            - listitem [ref=f12e451]:
+              - strong [ref=f12e452]: Faster Transfers
+              - text: Say goodbye to long waiting times. With real-time transfers and instant money transfer options,
+              - link "Switch Hub" [ref=f12e453] [cursor=pointer]:
+                - /url: https://switchhub.ca/contact/
+              - text: ensures your funds reach their destination in minutes. Whether it’s to support family or cover expenses, you’ll experience quick, reliable transfers.
+            - listitem [ref=f12e454]:
+              - strong [ref=f12e455]: Safer Transactions
+              - text: Your security is our priority. Switch Hub uses encrypted transactions, two-factor authentication (2FA), and fraud protection to ensure your money stays safe. With these robust security measures, you can trust that your personal information and transfers are well-protected.
+            - listitem [ref=f12e456]:
+              - strong [ref=f12e457]: More Affordable
+              - text: At Switch Hub, we make sending money more cost-effective. Enjoy low transfer fees, transparent pricing, and competitive exchange rates, ensuring you get the most value for your money.
+          - paragraph [ref=f12e458]: Experience the future of money transfers with Switch Hub—faster, safer, and more affordable.
+      - generic [ref=f12e461]:
+        - link [ref=f12e463] [cursor=pointer]:
+          - /url: https://switchhub.ca/banking-101-how-to-open-accounts-build-credit-and-access-financial-services-in-canada/
+          - img "Digital Remittances" [ref=f12e464]
+        - heading [level=1] [ref=f12e466]:
+          - 'link "Banking 101: How to Open Accounts, Build Credit, and Access Financial Services in Canada" [ref=f12e467] [cursor=pointer]':
+            - /url: https://switchhub.ca/banking-101-how-to-open-accounts-build-credit-and-access-financial-services-in-canada/
+        - generic [ref=f12e468]:
+          - paragraph [ref=f12e469]: Starting a new life in Canada can feel overwhelming. One of the first things you’ll need to tackle is setting up your finances. Whether you’re planning to get daily needs, save for the future, or build your credit, understanding how to bank in Canada is key. Don’t worry—it’s easier than you might think! Here’s a simple guide to help you open accounts, build your credit, and access the financial services you need to make your life here more secure and manageable.
+          - list [ref=f12e470]:
+            - listitem [ref=f12e471]:
+              - strong [ref=f12e472]: Opening a Bank Account
+              - text: The first thing you need is a bank account. To open one, visit a bank near you and bring documents like your passport, immigration papers, and proof of your address. You’ll choose between a checking or savings account, depending on your needs.
+            - listitem [ref=f12e473]:
+              - strong [ref=f12e474]: Building Your Credit
+              - text: Your credit score helps you get loans and credit cards in the future. Start by getting a credit card and using it responsibly—pay off the balance every month. You can also ask for a secured credit card if you’re new to credit.
+            - listitem [ref=f12e475]:
+              - strong [ref=f12e476]: Accessing Financial Services
+              - text: In Canada, you’ll have access to a wide range of financial services, like online banking, mobile payments, and remittance services. Make sure to choose services that offer low fees and secure transactions when sending money.
+              - link "Switch Hub" [ref=f12e477] [cursor=pointer]:
+                - /url: https://switchhub.ca/contact/
+              - text: offers good exchange rates at zero transfer charges so you can send money home in a jiffy.
+          - paragraph [ref=f12e478]: By understanding these basics, you can manage your money easily and safely as you settle into your new life in Canada.
+  - contentinfo [ref=f12e479]:
+    - generic [ref=f12e481]:
+      - generic [ref=f12e482]:
+        - generic [ref=f12e483]:
+          - heading "Company" [level=2] [ref=f12e485]
+          - list [ref=f12e487]:
+            - listitem [ref=f12e488]:
+              - link "About" [ref=f12e489] [cursor=pointer]:
+                - /url: https://switchhub.ca/about/
+            - listitem [ref=f12e491]:
+              - link "Contact Us" [ref=f12e492] [cursor=pointer]:
+                - /url: https://switchhub.ca/contact/
+            - listitem [ref=f12e494]:
+              - link "Blog" [ref=f12e495] [cursor=pointer]:
+                - /url: https://switchhub.ca/blog/
+        - generic [ref=f12e497]:
+          - heading "Legal" [level=2] [ref=f12e499]
+          - list [ref=f12e501]:
+            - listitem [ref=f12e502]:
+              - link "Privacy Policy" [ref=f12e503] [cursor=pointer]:
+                - /url: https://switchhub.ca/privacy-policy/
+            - listitem [ref=f12e505]:
+              - link "KYC / AML / ATF Policy" [ref=f12e506] [cursor=pointer]:
+                - /url: https://switchhub.ca/kyc/
+            - listitem [ref=f12e508]:
+              - link "Terms of Service" [ref=f12e509] [cursor=pointer]:
+                - /url: https://switchhub.ca/terms-conditions/
+            - listitem [ref=f12e511]:
+              - link "Rewards" [ref=f12e512] [cursor=pointer]:
+                - /url: https://switchhub.ca/rewards-and-referral-program-terms-conditions/
+        - generic [ref=f12e514]:
+          - heading "Help & Support" [level=2] [ref=f12e516]
+          - list [ref=f12e518]:
+            - listitem [ref=f12e519]:
+              - link "Customer Support" [ref=f12e520] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f12e522]:
+              - link "Contact Us" [ref=f12e523] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f12e525]:
+              - link "FAQs" [ref=f12e526] [cursor=pointer]:
+                - /url: https://switchhub.ca/faq/
+      - generic [ref=f12e528]:
+        - heading "Switch Hub Consulting Inc. (Switch Hub) is registered as a Money Services Business (MSB) with the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) under registration number M22578161." [level=2] [ref=f12e533]
+        - heading "Switch Hub is also registered as a Payment Service Provider (PSP) and is authorized and regulated by the Bank of Canada under the Retail Payment Activities Act (RPAA) for the payment services it provides." [level=2] [ref=f12e535]
+        - generic [ref=f12e539]:
+          - heading "(C) 2026 Switch Hub. All rights reserved" [level=2] [ref=f12e541]
+          - generic [ref=f12e542]:
+            - heading "Available on" [level=2] [ref=f12e544]
+            - link [ref=f12e546] [cursor=pointer]:
+              - /url: https://onelink.to/ad8b5k
+  - generic [ref=f12e548]:
+    - paragraph [ref=f12e549]: We respect your privacy
+    - generic [ref=f12e550]:
+      - paragraph [ref=f12e552]:
+        - paragraph [ref=f12e553]:
+          - text: Our website uses cookies to enhance user experience by remembering your preferences and analyzing website traffic. For more information about how we use cookies, please read our
+          - link "privacy policy" [ref=f12e554] [cursor=pointer]:
+            - /url: https://switchhub.ca/privacy-policy/
+          - text: .
+      - generic [ref=f12e555]:
+        - button "Customize" [ref=f12e556] [cursor=pointer]
+        - button "Reject All" [ref=f12e557] [cursor=pointer]
+        - button "Accept All" [ref=f12e558] [cursor=pointer]
+    - link "Powered by" [ref=f12e560] [cursor=pointer]:
+      - /url: https://cookieadmin.net/?utm_source=wpplugin&utm_medium=footer
+  - generic [ref=f12e567]: laptop
+  - iframe [ref=f12e568]:
+    - generic [ref=f15e1] [cursor=pointer]:
+      - img "Help" [ref=f15e2]
+      - generic [ref=f15e4]: Help

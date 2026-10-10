@@ -1,0 +1,186 @@
+- generic [active] [ref=f8e1]:
+  - banner [ref=f8e2]:
+    - generic [ref=f8e3]:
+      - link [ref=f8e6] [cursor=pointer]:
+        - /url: https://switchhub.ca
+      - navigation "Menu" [ref=f8e9]:
+        - list [ref=f8e10]:
+          - listitem [ref=f8e11]:
+            - link "About" [ref=f8e12] [cursor=pointer]:
+              - /url: https://switchhub.ca/about/
+          - listitem [ref=f8e13]:
+            - link "Contact Us" [ref=f8e14] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f8e15]:
+            - link "FAQ" [ref=f8e16] [cursor=pointer]:
+              - /url: https://switchhub.ca/faq/
+          - listitem [ref=f8e17]:
+            - link "Blog" [ref=f8e18] [cursor=pointer]:
+              - /url: https://switchhub.ca/blog/
+      - link "Download App" [ref=f8e21] [cursor=pointer]:
+        - /url: https://link.switchhub.ca/R/SWITCHWITHUS
+  - main [ref=f8e24]:
+    - generic [ref=f8e26]:
+      - generic [ref=f8e28]:
+        - generic [ref=f8e29]:
+          - button "ABOUT US" [ref=f8e31]
+          - heading "We Are The Best Online Payment Gateway Agency" [level=1] [ref=f8e35]
+          - paragraph [ref=f8e37]: Offering cutting-edge technology, exceptional support, and tailored solutions to meet all your payment processing needs.
+        - generic [ref=f8e47]:
+          - generic [ref=f8e48]:
+            - heading "Our Vision" [level=3] [ref=f8e50]
+            - paragraph [ref=f8e52]: Our vision is to empower businesses with seamless, secure, and innovative payment solutions that enhance customer experiences and drive growth in the digital economy.
+          - generic [ref=f8e53]:
+            - heading "Our Mission" [level=3] [ref=f8e55]
+            - paragraph [ref=f8e57]: Our mission is to provide businesses with reliable, secure, and efficient payment processing solutions that simplify transactions and foster trust, enabling them to thrive in a competitive landscape.
+      - generic [ref=f8e60]:
+        - heading "Countries We Serve" [level=3] [ref=f8e62]
+        - paragraph [ref=f8e64]: Switch Hub currently serves Canada and Nigeria and will be expanding to other regions including UK, USA and GHANA and CAMEROON.
+        - region "Image Carousel" [ref=f8e68]:
+          - generic [ref=f8e69]:
+            - group [aria-hidden] [ref=f8e70]:
+              - figure [ref=f8e71]
+            - group [aria-hidden] [ref=f8e73]:
+              - figure [ref=f8e74]
+            - group [aria-hidden] [ref=f8e76]:
+              - figure [ref=f8e77]
+            - group [aria-hidden] [ref=f8e79]:
+              - figure [ref=f8e80]
+            - group [aria-hidden] [ref=f8e82]:
+              - figure [ref=f8e83]
+            - group [aria-hidden] [ref=f8e85]:
+              - figure [ref=f8e86]
+            - group [aria-hidden] [ref=f8e88]:
+              - figure [ref=f8e89]
+            - group [aria-hidden] [ref=f8e91]:
+              - figure [ref=f8e92]
+            - group "4 / 7" [ref=f8e94]:
+              - figure [ref=f8e95]:
+                - img "Currencies (3)" [ref=f8e96]
+            - group "5 / 7" [ref=f8e97]:
+              - figure [ref=f8e98]:
+                - img "Currencies (4)" [ref=f8e99]
+            - group "6 / 7" [ref=f8e100]:
+              - figure [ref=f8e101]:
+                - img "Currencies (5)" [ref=f8e102]
+            - group "7 / 7" [ref=f8e103]:
+              - figure [ref=f8e104]:
+                - img "Currencies" [ref=f8e105]
+            - group "1 / 7" [ref=f8e106]:
+              - figure [ref=f8e107]:
+                - img "Currencies" [ref=f8e108]
+            - group "2 / 7" [ref=f8e109]:
+              - figure [ref=f8e110]:
+                - img "Currencies (1)" [ref=f8e111]
+            - group "3 / 7" [ref=f8e112]:
+              - figure [ref=f8e113]:
+                - img "Currencies (2)" [ref=f8e114]
+            - group "4 / 7" [ref=f8e115]:
+              - figure [ref=f8e116]:
+                - img "Currencies (3)" [ref=f8e117]
+            - group "5 / 7" [ref=f8e118]:
+              - figure [ref=f8e119]:
+                - img "Currencies (4)" [ref=f8e120]
+      - generic [ref=f8e124]:
+        - heading "We Are The Best Payment Gateway Agency Helping Brands Worldwide" [level=3] [ref=f8e126]
+        - paragraph [ref=f8e128]: Switch Hub is compliant with the relevant regulations and standards in Canada. We are incorporated in Canada as Switch Hub Consulting Inc. (trading as “SwitchHub”) – Corporation No. 1261181-3. We are registered with the Financial Transactions and Reports Analysis Centre of Canada (“FINTRAC”) under registration Number M22578161.
+      - generic [ref=f8e130]:
+        - generic [ref=f8e131]:
+          - heading "Frequently asked questions" [level=3] [ref=f8e133]
+          - paragraph [ref=f8e135]: Explore our frequently asked questions to find quick answers to common queries about Switch's services and features.
+          - link "View all" [ref=f8e137] [cursor=pointer]:
+            - /url: https://switchhub.ca/faq/
+        - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=f8e142]:
+          - group [ref=f8e143]:
+            - generic "How do I sign up for a Switch Hub account?" [ref=f8e144] [cursor=pointer]
+          - group [ref=f8e151]:
+            - generic "What documents are required for verification?" [ref=f8e152] [cursor=pointer]
+          - group [ref=f8e159]:
+            - generic "How long does it take to process a transaction?" [ref=f8e160] [cursor=pointer]
+          - group [ref=f8e167]:
+            - generic "Are there any fees associated with transactions?" [ref=f8e168] [cursor=pointer]
+          - group [ref=f8e175]:
+            - generic "Can I cancel a transaction once it's been initiated?" [ref=f8e176] [cursor=pointer]
+          - group [ref=f8e183]:
+            - generic "How do I track the status of my transaction?" [ref=f8e184] [cursor=pointer]
+          - group [ref=f8e191]:
+            - generic "What currencies does Switch Hub support?" [ref=f8e192] [cursor=pointer]
+          - group [ref=f8e199]:
+            - generic "How do I contact customer support?" [ref=f8e200] [cursor=pointer]
+          - group [ref=f8e207]:
+            - generic "Is there a mobile app available for Switch Hub" [ref=f8e208] [cursor=pointer]
+          - group [ref=f8e215]:
+            - generic "What measures does Switch Hub take to prevent fraud?" [ref=f8e216] [cursor=pointer]
+          - group [ref=f8e223]:
+            - generic "Are my funds safe with Switch Hub?" [ref=f8e224] [cursor=pointer]
+  - contentinfo [ref=f8e231]:
+    - generic [ref=f8e233]:
+      - generic [ref=f8e234]:
+        - generic [ref=f8e235]:
+          - heading "Company" [level=2] [ref=f8e237]
+          - list [ref=f8e239]:
+            - listitem [ref=f8e240]:
+              - link "About" [ref=f8e241] [cursor=pointer]:
+                - /url: https://switchhub.ca/about/
+            - listitem [ref=f8e243]:
+              - link "Contact Us" [ref=f8e244] [cursor=pointer]:
+                - /url: https://switchhub.ca/contact/
+            - listitem [ref=f8e246]:
+              - link "Blog" [ref=f8e247] [cursor=pointer]:
+                - /url: https://switchhub.ca/blog/
+        - generic [ref=f8e249]:
+          - heading "Legal" [level=2] [ref=f8e251]
+          - list [ref=f8e253]:
+            - listitem [ref=f8e254]:
+              - link "Privacy Policy" [ref=f8e255] [cursor=pointer]:
+                - /url: https://switchhub.ca/privacy-policy/
+            - listitem [ref=f8e257]:
+              - link "KYC / AML / ATF Policy" [ref=f8e258] [cursor=pointer]:
+                - /url: https://switchhub.ca/kyc/
+            - listitem [ref=f8e260]:
+              - link "Terms of Service" [ref=f8e261] [cursor=pointer]:
+                - /url: https://switchhub.ca/terms-conditions/
+            - listitem [ref=f8e263]:
+              - link "Rewards" [ref=f8e264] [cursor=pointer]:
+                - /url: https://switchhub.ca/rewards-and-referral-program-terms-conditions/
+        - generic [ref=f8e266]:
+          - heading "Help & Support" [level=2] [ref=f8e268]
+          - list [ref=f8e270]:
+            - listitem [ref=f8e271]:
+              - link "Customer Support" [ref=f8e272] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f8e274]:
+              - link "Contact Us" [ref=f8e275] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f8e277]:
+              - link "FAQs" [ref=f8e278] [cursor=pointer]:
+                - /url: https://switchhub.ca/faq/
+      - generic [ref=f8e280]:
+        - heading "Switch Hub Consulting Inc. (Switch Hub) is registered as a Money Services Business (MSB) with the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) under registration number M22578161." [level=2] [ref=f8e285]
+        - heading "Switch Hub is also registered as a Payment Service Provider (PSP) and is authorized and regulated by the Bank of Canada under the Retail Payment Activities Act (RPAA) for the payment services it provides." [level=2] [ref=f8e287]
+        - generic [ref=f8e291]:
+          - heading "(C) 2026 Switch Hub. All rights reserved" [level=2] [ref=f8e293]
+          - generic [ref=f8e294]:
+            - heading "Available on" [level=2] [ref=f8e296]
+            - link [ref=f8e298] [cursor=pointer]:
+              - /url: https://onelink.to/ad8b5k
+  - generic [ref=f8e300]:
+    - paragraph [ref=f8e301]: We respect your privacy
+    - generic [ref=f8e302]:
+      - paragraph [ref=f8e304]:
+        - paragraph [ref=f8e305]:
+          - text: Our website uses cookies to enhance user experience by remembering your preferences and analyzing website traffic. For more information about how we use cookies, please read our
+          - link "privacy policy" [ref=f8e306] [cursor=pointer]:
+            - /url: https://switchhub.ca/privacy-policy/
+          - text: .
+      - generic [ref=f8e307]:
+        - button "Customize" [ref=f8e308] [cursor=pointer]
+        - button "Reject All" [ref=f8e309] [cursor=pointer]
+        - button "Accept All" [ref=f8e310] [cursor=pointer]
+    - link "Powered by" [ref=f8e312] [cursor=pointer]:
+      - /url: https://cookieadmin.net/?utm_source=wpplugin&utm_medium=footer
+  - generic [ref=f8e319]: laptop
+  - iframe [ref=f8e320]:
+    - generic [ref=f11e1] [cursor=pointer]:
+      - img "Help" [ref=f11e2]
+      - generic [ref=f11e4]: Help
